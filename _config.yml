@@ -1,0 +1,28 @@
+name: keirasinclair
+favicon: null
+layout_spectrum: 0.8065185945015401
+typography_spectrum: 0.7879132444504648
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10994285182096064
+  lightness: 0.42732230853289366
+  saturation: 0.37778207985684276
+  rhythmicContrast: 0.43867045058868825
+purpose: []
